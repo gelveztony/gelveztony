@@ -1,16 +1,18 @@
-### Hi there 👋
+## ¡ Hi ! I'm Antonio Gelvez 👋
 
-<!--
-**gelveztony/gelveztony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an engineer passionate about the world of innovation and development. I am looking to be a senior frontend developer.
+I like to create, and in the world of programming I found the satisfaction of being a creator from just a small idea.
 
-Here are some ideas to get you started:
+- 👀 I am interested in innovation, web development and digital entrepreneurship.
+- 🌱 I am open to collaborations, feedback and others in favor of growing.
+- 🧠 I am in the process of learning Javascript and perfecting css.
+- ⚡ I am looking to be a manager of multiple projects in favor of learning web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## you can find me at:
+
+- [LinkedIn](www.linkedin.com/in/antoniogelvez)
+- [Medium](https://medium.com/@gelveztony)
+- Email principal; ing.antoniogelvez@gmail.com
+
+## you can contact me at:
+- Email --> ing.antoniogelvez@gmail.com
